@@ -1,0 +1,34 @@
+Marcin Ryznar, 405745
+
+Zbiór danych ŚWIĘTOKSZYSKIE.csv
+ŚWIĘTOKSZYSKIE.csv - dane o markach firm, dniach zakupow produktow, wieku kupujacego oraz plci kupujacego
+
+
++ Folder Original Data posiada oryginaly plik ŚWWIĘTOKSZYSKIE.csv wraz z rospisaną matadaną.
++ Folder Command File zawiera raport.ipytd w którym zostałą zrealizowana analiza danych na podstawie pliku 12_sw_original.csv (zawiera identyczne dane co ŚWIĘTOKSZYSKIE.csv)
++ Folder Analysis Data zawiera pliki z danymi na temat oceny poszczególnej firmy według płci, ilości klientów w danej firmie (liczba kobiet/mezczyzn), ogólnej ilości mezczyzn i kobiet podejmujacych jakiekolwiek działania we wszystkich firmach
++ Folder Documents zawiera plik readme.md oraz zrzuty ekranu rezultatów z nazwami plików odpowiadającymi tytułom poszczególnych wykresów.
+
+#OPIS ORIGINAL DATA
+Nazwy kolumn są tworzone w następujący sposób:
+
+-Dni od zakupu 
+    -dokonanej tranzakcji w sklepie
+-Marka
+    -Beko
+    -Tefal
+    -Electrolux
+    -Samsung
+    -Dyson
+    
+-Wiek kupującego 
+
+
+-Płeć kupującego:
+
+    K = kobieta
+    M = mężczyzna
+    bd. = brak danych
+
+-Ocena
+    podlega indywidualnemu przekonaniu klienta na temat danej firmy
